@@ -65,56 +65,48 @@ include "header.php"
                 <h2 class="heading heading--green"><?php echo $name; ?> head offices</h2>
                 <div class="-mx-4">
                     <div class="flex flex-wrap">
-                        <div class="w-1/2 px-4 mb-8 md:w-1/3 lg:w-1/5">
-                            <h4 class="font-bold mb-6">Africa</h4>
+                        <div class="w-1/2 px-4 mb-8 md:w-1/3 lg:w-1/2">
+                            <h4 class="font-bold mb-6">Head office</h4>
                             <div class="typo typo--no-margin">
-                                <p>Vila Flor</p>
-                                <p>Kikuxi</p>
-                                <p>Luanda, Republic of Angola<br /></p>
+                                <p><?php echo $addr; ?><br /></p>
 
 
                             </div>
                         </div>
-                        <div class="w-1/2 px-4 mb-8 md:w-1/3 lg:w-1/5">
+                        <div class="w-1/2 px-4 mb-8 md:w-1/3 lg:w-1/2">
+                            <h4 class="font-bold mb-6">Contact Us</h4>
+                            <div class="typo typo--no-margin">
+                                <p>Email: <?php echo $email; ?><br /></p>
+                                <p>Tel: <?php echo $phone; ?><br /></p>
+
+
+                            </div>
+                        </div>
+                        <!--<div class="w-1/2 px-4 mb-8 md:w-1/3 lg:w-1/5">
                             <h4 class="font-bold mb-6">Americas</h4>
                             <div class="typo typo--no-margin">
-                                <p>6707 Northwinds Drive</p>
-                                <p>Houston</p>
-                                <p>TX 77041</p>
-                                <p>USA</p>
+                                <p><?php echo $addr2; ?></p>
 
                             </div>
                         </div>
                         <div class="w-1/2 px-4 mb-8 md:w-1/3 lg:w-1/5">
                             <h4 class="font-bold mb-6">Asia Pacific</h4>
                             <div class="typo typo--no-margin">
-                                <p>60 Joo Koon Circle<br /></p>
-
-                                <p>Singapore</p>
-                                <p>629073</p>
+                                <p><?php echo $addr3; ?></p>
                             </div>
                         </div>
                         <div class="w-1/2 px-4 mb-8 md:w-1/3 lg:w-1/5">
                             <h4 class="font-bold mb-6">Europe</h4>
                             <div class="typo typo--no-margin">
-                                <p>Seton House</p>
-                                <p>Murcar Industrial Estate</p>
-                                <p>Denmore Road</p>
-                                <p>Bridge of Don</p>
-                                <p>Aberdeen, UK</p>
-                                <p>AB23 8JW</p>
+                                <p><?php echo $addr4; ?></p>
                             </div>
                         </div>
                         <div class="w-1/2 px-4 mb-8 md:w-1/3 lg:w-1/5">
                             <h4 class="font-bold mb-6">Middle East, India and Caspian</h4>
                             <div class="typo typo--no-margin">
-                                <p>Jafza View 18</p>
-                                <p>Office 2201</p>
-                                <p>Jebel Ali</p>
-                                <p>PO Box 18694</p>
-                                <p>Dubai, UAE</p>
+                                <p><?php echo $addr5; ?></p>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                 </div>
             </div>
