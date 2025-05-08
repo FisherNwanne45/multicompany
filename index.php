@@ -183,6 +183,46 @@ include "header.php"
             </div>
             </section>
             <section class="mt-16 mb-16">
+                <div class="banner banner--light-grey">
+                    <div class="container xl:max-w-screen-xl">
+                        <div class="flex flex-wrap">
+                            <div class="w-full md:w-2/5 md:flex md:items-center  md:pl-8 md:order-2 ">
+                                <img class="w-full mb-8 md:mb-0"
+                                    src="images/content-images/square/_square/sparrows-team.jpg" alt="">
+                            </div>
+                            <div class="w-full flex flex-col justify-center items-start md:w-3/5  md:pr-8 md:order-1 ">
+                                <h2 class="heading mb-0">Real Estate and Construction</h2>
+                                <div class="typo">
+                                    <p>With technical expertise and project management resources spread across key
+                                        regions,
+                                        we deliver local support to our customers, reinforced by a global network of
+                                        construction engineering specialists.</p>
+                                    <p>Our skilled teams of inspectors, technicians, and project managers bring
+                                        extensive
+                                        experience across commercial, residential, and industrial construction projects,
+                                        even in the most challenging environments.</p>
+                                    <p>We are committed to delivering responsive, high-quality services, and our
+                                        flexible
+                                        operational model allows us to quickly mobilize teams to support construction
+                                        projects anywhere in the world.</p>
+                                    <p>Many of our technicians are multi-skilled, enabling us to minimize personnel
+                                        requirements while maximizing efficiency. For example, we have engineers with
+                                        expertise in structural design and project management, equipment operators with
+                                        maintenance and safety certifications, and inspection specialists with quality
+                                        assurance and compliance knowledge.</p>
+                                    <p>While much of our work involves on-site repairs, installations, and upgrades, we
+                                        also
+                                        utilize our state-of-the-art facilities to manage larger, more complex
+                                        construction
+                                        projects when off-site work is required.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="mt-16 mb-16">
                 <div class="container mb-16">
                     <div class="flex justify-center mt-8">
                         <a href="<?php echo $url; ?>/contact.php" class="button button--alt">

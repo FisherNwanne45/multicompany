@@ -10,7 +10,7 @@ include "header.php"
 
     <section class="page-banner  page-banner--with-image bgLazy"
         style="background: url() #006732 center center / cover no-repeat;"
-        data-src="images/content-images/banners/_bannerImage/global.jpg">
+        data-src="images/content-images/banners/_bannerImage/construction.jpg">
         <div class="cutout cutout--top"></div>
         <div class="container">
             <div class="flex flex-wrap justify-between md:flex-nowrap">
@@ -128,13 +128,13 @@ include "header.php"
                 <svg xmlns="http://www.w3.org/2000/svg" width="244.001" height="75.131" viewBox="0 0 244.001 75.131">
                     <defs>
                         <style>
-                        .cls-1 {
-                            fill: #fab500
-                        }
+                            .cls-1 {
+                                fill: #fab500
+                            }
 
-                        .cls-3 {
-                            fill: #fff
-                        }
+                            .cls-3 {
+                                fill: #fff
+                            }
                         </style>
                     </defs>
                     <g transform="translate(-137.999 -5587.113)">
